@@ -223,7 +223,8 @@ sudo kubectl get pods -A
 ```sh
 sudo cat /var/lib/rancher/k3s/server/token
 ```
-
+token
+K1030f4ff19bfe157ea556e6881bc4cd06ac44c448d644ea3c58be3d10cd4ddf467::server:f7c04d711484d00992e104a552d952ba
 Save this token — you will need it in the next step.
 
 ---
